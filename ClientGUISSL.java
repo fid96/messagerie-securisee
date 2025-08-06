@@ -7,6 +7,7 @@ import java.security.KeyStore;
 import java.util.HashMap;
 import java.util.Map;
 
+//Bonsoir, je teste
 /**
  * Client messagerie SSL/TLS avec interface graphique Swing.
  *
